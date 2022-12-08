@@ -14,3 +14,10 @@ I want to learn Front-End Development
 
 ## Work Experience
 Nathing yet
+
+## Education and cours
+university: Belarus State Economic University, speciality banking
+
+## Languages
+* English - A1
+* Italian - A1 
