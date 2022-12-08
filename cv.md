@@ -11,3 +11,6 @@ I want to learn Front-End Development
 ## Skils and Proficiency
 * HTML (base)
 * CSS (base)
+
+## Work Experience
+Nathing yet
